@@ -1,0 +1,1105 @@
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:28:35"}
+{"level":"info","message":"GET /api/users/abhi@gmail.com","timestamp":"2024-07-17 21:29:03"}
+{"level":"info","message":"Fetched user by email abhi@gmail.com","timestamp":"2024-07-17 21:29:03"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 21:29:28"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 21:29:28"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 21:29:28"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:32:11"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 21:32:17"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 21:32:17"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 21:32:17"}
+{"level":"info","message":"GET /api/users/test@gmail.com","timestamp":"2024-07-17 21:32:34"}
+{"level":"info","message":"Fetched user by email test@gmail.com","timestamp":"2024-07-17 21:32:34"}
+{"level":"info","message":"GET /api/users/test@gmail.com","timestamp":"2024-07-17 21:32:53"}
+{"level":"info","message":"Fetched user by email test@gmail.com","timestamp":"2024-07-17 21:32:53"}
+{"level":"info","message":"GET /api/users/test@gmail.com","timestamp":"2024-07-17 21:33:03"}
+{"level":"info","message":"Fetched user by email test@gmail.com","timestamp":"2024-07-17 21:33:03"}
+{"level":"info","message":"GET /api/users/testb@gmail.com","timestamp":"2024-07-17 21:37:21"}
+{"level":"info","message":"Fetched user by email testb@gmail.com","timestamp":"2024-07-17 21:37:21"}
+{"level":"info","message":"OPTIONS /api/users/","timestamp":"2024-07-17 21:37:21"}
+{"level":"info","message":"POST /api/users/","timestamp":"2024-07-17 21:37:21"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:40:46"}
+{"level":"info","message":"GET /api/users/testb@gmail.com","timestamp":"2024-07-17 21:40:56"}
+{"level":"info","message":"Fetched user by email testb@gmail.com","timestamp":"2024-07-17 21:40:56"}
+{"level":"info","message":"GET /api/users/testc@gmail.com","timestamp":"2024-07-17 21:41:11"}
+{"level":"info","message":"Fetched user by email testc@gmail.com","timestamp":"2024-07-17 21:41:11"}
+{"level":"info","message":"OPTIONS /api/users/","timestamp":"2024-07-17 21:41:11"}
+{"level":"info","message":"POST /api/users/","timestamp":"2024-07-17 21:41:11"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:42:12"}
+{"level":"info","message":"GET /api/users/testc@gmail.com","timestamp":"2024-07-17 21:42:34"}
+{"level":"info","message":"Fetched user by email testc@gmail.com","timestamp":"2024-07-17 21:42:34"}
+{"level":"info","message":"GET /api/users/testd@gmail.com","timestamp":"2024-07-17 21:42:43"}
+{"level":"info","message":"Fetched user by email testd@gmail.com","timestamp":"2024-07-17 21:42:43"}
+{"level":"info","message":"OPTIONS /api/users/","timestamp":"2024-07-17 21:42:43"}
+{"level":"info","message":"POST /api/users/","timestamp":"2024-07-17 21:42:43"}
+{"level":"info","message":"GET /api/users/testd@gmail.com","timestamp":"2024-07-17 21:44:12"}
+{"level":"info","message":"Fetched user by email testd@gmail.com","timestamp":"2024-07-17 21:44:12"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:46:00"}
+{"level":"info","message":"GET /api/cartItem/9/1","timestamp":"2024-07-17 21:46:42"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 21:46:42"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 21:46:42"}
+{"level":"info","message":"GET /api/cartItem/9","timestamp":"2024-07-17 21:47:02"}
+{"level":"info","message":"OPTIONS /api/cartItem/9/1","timestamp":"2024-07-17 21:47:05"}
+{"level":"info","message":"DELETE /api/cartItem/9/1","timestamp":"2024-07-17 21:47:05"}
+{"level":"info","message":"GET /api/cartItem/9","timestamp":"2024-07-17 21:48:43"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:49:59"}
+{"level":"info","message":"GET /api/cartItem/9/1","timestamp":"2024-07-17 21:50:16"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:52:26"}
+{"level":"info","message":"GET /api/users/abhi@gmail.com","timestamp":"2024-07-17 21:52:52"}
+{"level":"info","message":"Fetched user by email abhi@gmail.com","timestamp":"2024-07-17 21:52:52"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 21:53:10"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 21:53:51"}
+{"level":"info","message":"GET /api/users/abhi@gmail.com","timestamp":"2024-07-17 21:54:07"}
+{"level":"info","message":"Fetched user by email abhi@gmail.com","timestamp":"2024-07-17 21:54:07"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 21:55:02"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 21:55:02"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 21:55:07"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 21:55:07"}
+{"level":"info","message":"GET /api/users/abhi@gmail.com","timestamp":"2024-07-17 21:55:25"}
+{"level":"info","message":"Fetched user by email abhi@gmail.com","timestamp":"2024-07-17 21:55:25"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 21:55:37"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 21:55:37"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 21:55:37"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 21:55:37"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 21:55:37"}
+{"level":"info","message":"GET /api/cartItem/1/6","timestamp":"2024-07-17 21:56:18"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 6","timestamp":"2024-07-17 21:56:18"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 21:56:18"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 21:56:18"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:01:24"}
+{"level":"info","message":"GET /api/cartItem/1/6","timestamp":"2024-07-17 22:01:33"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 6","timestamp":"2024-07-17 22:01:33"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:01:33"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:01:33"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:01:33"}
+{"level":"info","message":"GET /api/cartItem/1/8","timestamp":"2024-07-17 22:01:49"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 8","timestamp":"2024-07-17 22:01:49"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:01:49"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:01:49"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:01:49"}
+{"level":"info","message":"GET /api/cartItem/1/8","timestamp":"2024-07-17 22:01:51"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 8","timestamp":"2024-07-17 22:01:51"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:01:51"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:01:51"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 22:01:58"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 22:01:58"}
+{"level":"info","message":"GET /api/users/abhi@gmail.com","timestamp":"2024-07-17 22:02:22"}
+{"level":"info","message":"Fetched user by email abhi@gmail.com","timestamp":"2024-07-17 22:02:22"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:02:28"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:02:28"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:02:28"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:02:28"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:02:28"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 22:02:33"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 22:02:33"}
+{"level":"info","message":"OPTIONS /api/cartItem/1/8","timestamp":"2024-07-17 22:02:35"}
+{"level":"info","message":"DELETE /api/cartItem/1/8","timestamp":"2024-07-17 22:02:35"}
+{"level":"info","message":"Deleted item in cart for user 1 and food 8","timestamp":"2024-07-17 22:02:35"}
+{"level":"info","message":"OPTIONS /api/cartItem/1/6","timestamp":"2024-07-17 22:02:36"}
+{"level":"info","message":"DELETE /api/cartItem/1/6","timestamp":"2024-07-17 22:02:36"}
+{"level":"info","message":"Deleted item in cart for user 1 and food 6","timestamp":"2024-07-17 22:02:36"}
+{"level":"info","message":"OPTIONS /api/cartItem/1/1","timestamp":"2024-07-17 22:02:37"}
+{"level":"info","message":"DELETE /api/cartItem/1/1","timestamp":"2024-07-17 22:02:37"}
+{"level":"info","message":"Deleted item in cart for user 1 and food 1","timestamp":"2024-07-17 22:02:37"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:03:57"}
+{"level":"info","message":"OPTIONS /api/booking","timestamp":"2024-07-17 22:05:55"}
+{"level":"info","message":"POST /api/booking","timestamp":"2024-07-17 22:05:55"}
+{"level":"error","message":"Error creating booking: Out of range value for column 'user_id' at row 1","timestamp":"2024-07-17 22:05:55"}
+{"level":"info","message":"OPTIONS /api/booking","timestamp":"2024-07-17 22:06:01"}
+{"level":"info","message":"POST /api/booking","timestamp":"2024-07-17 22:06:01"}
+{"level":"error","message":"Error creating booking: Out of range value for column 'user_id' at row 1","timestamp":"2024-07-17 22:06:01"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:07:46"}
+{"level":"info","message":"GET /api/cartItem/1/6","timestamp":"2024-07-17 22:08:17"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 6","timestamp":"2024-07-17 22:08:17"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:08:17"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:08:17"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:08:17"}
+{"level":"info","message":"GET /api/cartItem/1/6","timestamp":"2024-07-17 22:08:19"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 6","timestamp":"2024-07-17 22:08:19"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:08:20"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:08:20"}
+{"level":"info","message":"GET /api/billstatus/user/1","timestamp":"2024-07-17 22:08:24"}
+{"level":"info","message":"Fetched Bills Status for User 1","timestamp":"2024-07-17 22:08:24"}
+{"level":"info","message":"GET /api/billstatus/user/1","timestamp":"2024-07-17 22:08:25"}
+{"level":"info","message":"Fetched Bills Status for User 1","timestamp":"2024-07-17 22:08:25"}
+{"level":"info","message":"GET /api/billstatus/user/1","timestamp":"2024-07-17 22:08:26"}
+{"level":"info","message":"Fetched Bills Status for User 1","timestamp":"2024-07-17 22:08:26"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:08:29"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:08:29"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:08:29"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:08:29"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:08:29"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:08:32"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:08:32"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:08:32"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:08:32"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 22:08:36"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 22:08:36"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 22:08:47"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 22:08:47"}
+{"level":"info","message":"GET /api/billstatus/new","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"Fetched newest Bill Status","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"OPTIONS /api/billdetails","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"OPTIONS /api/billdetails","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"POST /api/billdetails","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"OPTIONS /api/billstatus","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"POST /api/billdetails","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"OPTIONS /api/cartItem/1","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"POST /api/billstatus","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"DELETE /api/cartItem/1","timestamp":"2024-07-17 22:09:03"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:11:58"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:12:06"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:12:06"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:12:06"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:12:06"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:12:06"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:12:08"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:12:08"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:12:08"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:12:08"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 22:12:12"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 22:12:12"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 22:12:16"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 22:12:16"}
+{"level":"info","message":"GET /api/billstatus/new","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"Fetched newest Bill Status","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"OPTIONS /api/billdetails","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"OPTIONS /api/billstatus","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"POST /api/billdetails","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"POST /api/billstatus","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"OPTIONS /api/cartItem/1","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"DELETE /api/cartItem/1","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"Created new Bill Status with ID: 0","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"Deleted all items in cart for user 1","timestamp":"2024-07-17 22:12:30"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:12:54"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:12:54"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:12:54"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:12:54"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:12:54"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 22:12:57"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 22:12:57"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:12:57"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:12:57"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 22:13:00"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 22:13:00"}
+{"level":"info","message":"OPTIONS /api/cartItem/1","timestamp":"2024-07-17 22:13:05"}
+{"level":"info","message":"DELETE /api/cartItem/1","timestamp":"2024-07-17 22:13:05"}
+{"level":"info","message":"Deleted all items in cart for user 1","timestamp":"2024-07-17 22:13:05"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:14:01"}
+{"level":"info","message":"GET /api/users/test@gmail.com","timestamp":"2024-07-17 22:14:27"}
+{"level":"info","message":"Fetched user by email test@gmail.com","timestamp":"2024-07-17 22:14:27"}
+{"level":"info","message":"GET /api/cartItem/3/1","timestamp":"2024-07-17 22:15:04"}
+{"level":"info","message":"Fetched item in cart for user 3 and food 1","timestamp":"2024-07-17 22:15:04"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:15:04"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:15:04"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:15:04"}
+{"level":"info","message":"GET /api/cartItem/3/1","timestamp":"2024-07-17 22:15:06"}
+{"level":"info","message":"Fetched item in cart for user 3 and food 1","timestamp":"2024-07-17 22:15:06"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:15:06"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:15:06"}
+{"level":"info","message":"GET /api/cartItem/3","timestamp":"2024-07-17 22:15:39"}
+{"level":"info","message":"Fetched all items for user 3","timestamp":"2024-07-17 22:15:39"}
+{"level":"info","message":"OPTIONS /api/cartItem/3/17","timestamp":"2024-07-17 22:15:43"}
+{"level":"info","message":"DELETE /api/cartItem/3/17","timestamp":"2024-07-17 22:15:43"}
+{"level":"info","message":"Deleted item in cart for user 3 and food 17","timestamp":"2024-07-17 22:15:43"}
+{"level":"info","message":"GET /api/cartItem/3","timestamp":"2024-07-17 22:15:49"}
+{"level":"info","message":"Fetched all items for user 3","timestamp":"2024-07-17 22:15:49"}
+{"level":"info","message":"GET /api/billstatus/new","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"Fetched newest Bill Status","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"OPTIONS /api/billdetails","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"OPTIONS /api/billdetails","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"POST /api/billdetails","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"OPTIONS /api/billstatus","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"POST /api/billdetails","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"OPTIONS /api/cartItem/3","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"POST /api/billstatus","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"DELETE /api/cartItem/3","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"Created new Bill Status with ID: 0","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"Deleted all items in cart for user 3","timestamp":"2024-07-17 22:16:34"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 22:16:58"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 22:16:58"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 22:17:00"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 22:17:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:12"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:18"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:18"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:19"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:20"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:20"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:21"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:21"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:22"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:22"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:23"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:23"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:24"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:25"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:25"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:26"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:27"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:27"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:28"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:28"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:29"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:29"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:30"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:30"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:31"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:31"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:32"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:32"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:33"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:33"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:34"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:34"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:35"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:35"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:36"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:36"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:37"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:37"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:38"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:38"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:39"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:39"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:40"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:40"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:41"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:41"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:42"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:42"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:43"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:43"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:44"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:44"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:45"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:45"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:46"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:46"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:54"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:17:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:17:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:05"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:18:14"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 22:18:19"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 22:18:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:40"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:40"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:41"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:41"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:42"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:42"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:43"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:43"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:44"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:44"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:45"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:45"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:46"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:46"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:54"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:18:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:18:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:05"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:06"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:06"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:07"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:07"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:08"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:08"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:12"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"OPTIONS /api/billstatus/17","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"PUT /api/billstatus/17","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"Updated Bill Status 17","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:18"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:18"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:19"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:20"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:20"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:21"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:21"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:22"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:22"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:23"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:23"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:24"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:25"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:25"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:26"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:27"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:27"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:28"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:28"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:29"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:29"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:30"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:30"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:31"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:31"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:32"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:32"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:33"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:33"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:34"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:34"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:35"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:35"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:36"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:36"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:37"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:37"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:38"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:38"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:39"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:39"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:40"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:40"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:41"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:41"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:42"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:42"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:43"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:43"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:44"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:44"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:45"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:45"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:46"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:46"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:54"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:19:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:19:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:05"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:06"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:06"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:07"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:07"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:08"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:08"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:12"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:54"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:20:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:20:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:05"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:06"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:06"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:07"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:07"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:08"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:08"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:12"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:18"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:18"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:19"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:20"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:20"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:21"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:21"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:22"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:22"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:23"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:23"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:24"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:25"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:25"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:26"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:27"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:27"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:28"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:28"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:29"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:29"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:30"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:30"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:31"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:31"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:32"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:32"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:33"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:33"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:34"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:34"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:35"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:35"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:36"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:36"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:37"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:37"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:38"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:38"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:39"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:39"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:40"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:40"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:41"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:41"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:42"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:42"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:43"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:43"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:44"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:44"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:45"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:45"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:46"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:46"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:54"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:21:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:21:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:22:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:22:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:22:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:22:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:22:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:22:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"OPTIONS /api/billstatus/cancel/18","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"PUT /api/billstatus/cancel/18","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"Canceled Bill Status 18","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:22:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:05"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:06"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:06"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:07"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:07"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:08"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:08"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:12"}
+{"level":"info","message":"OPTIONS /api/billstatus/19","timestamp":"2024-07-17 22:23:12"}
+{"level":"info","message":"PUT /api/billstatus/19","timestamp":"2024-07-17 22:23:12"}
+{"level":"info","message":"Updated Bill Status 19","timestamp":"2024-07-17 22:23:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"OPTIONS /api/billstatus/17","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"PUT /api/billstatus/17","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"Updated Bill Status 17","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:18"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:18"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:19"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:20"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:20"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:21"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:21"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:22"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:22"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:23"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:23"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:24"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:25"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:25"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:26"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:27"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:27"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:28"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:28"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:29"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:29"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:30"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:30"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:31"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:31"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:32"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:32"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:33"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:33"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:34"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:34"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:35"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:35"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:36"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:36"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:37"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:37"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:38"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:38"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:39"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:39"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:40"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:40"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:41"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:41"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:42"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:42"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:43"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:43"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:44"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:44"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:45"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:45"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:46"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:46"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"OPTIONS /api/billstatus/17","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"PUT /api/billstatus/17","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"Updated Bill Status 17","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:54"}
+{"level":"info","message":"PUT /api/billstatus/17","timestamp":"2024-07-17 22:23:55"}
+{"level":"info","message":"Updated Bill Status 17","timestamp":"2024-07-17 22:23:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:55"}
+{"level":"info","message":"OPTIONS /api/billstatus/paid/17","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"PUT /api/billstatus/paid/17","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"Updated Bill Paid status 17","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:57"}
+{"level":"info","message":"PUT /api/billstatus/17","timestamp":"2024-07-17 22:23:57"}
+{"level":"info","message":"Updated Bill Status 17","timestamp":"2024-07-17 22:23:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:23:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:23:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:05"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:06"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:06"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:07"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:07"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:08"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:08"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:12"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:18"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:18"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:19"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:20"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:20"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:21"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:21"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:22"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:22"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:23"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:23"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:24"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:25"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:25"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:26"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:27"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:27"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:28"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:28"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:29"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:29"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:30"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:30"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:31"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:31"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:32"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:32"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:33"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:33"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:34"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:34"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:35"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:35"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:36"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:36"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:37"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:37"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:38"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:38"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:39"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:39"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:40"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:40"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:41"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:41"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:42"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:42"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:43"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:43"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:44"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:44"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:45"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:45"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:46"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:46"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:48"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:48"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:49"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:49"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:50"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:50"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:51"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:51"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:52"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:52"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:53"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:53"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:54"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:54"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:55"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:55"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:57"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:57"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:58"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:58"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:24:59"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:24:59"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:00"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:00"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:01"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:01"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:02"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:02"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:03"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:04"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:04"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:05"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:05"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:06"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:06"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:07"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:07"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:08"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:08"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:10"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:10"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:11"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:11"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:12"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:12"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:13"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:14"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:14"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:15"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:15"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:16"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:16"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:17"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:17"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:18"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:18"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:19"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:19"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:20"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:20"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:25:20"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:21"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:21"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:22"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:22"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:23"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:23"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:24"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:25"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:25"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:26"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:27"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:27"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:25:28"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:25:28"}
+{"level":"info","message":"GET /api/cartItem/3/1","timestamp":"2024-07-17 22:25:41"}
+{"level":"info","message":"Fetched item in cart for user 3 and food 1","timestamp":"2024-07-17 22:25:41"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 22:25:41"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 22:25:41"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 22:25:41"}
+{"level":"info","message":"GET /api/cartItem/3/1","timestamp":"2024-07-17 22:25:42"}
+{"level":"info","message":"Fetched item in cart for user 3 and food 1","timestamp":"2024-07-17 22:25:42"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 22:25:42"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 22:25:42"}
+{"level":"info","message":"GET /api/cartItem/3","timestamp":"2024-07-17 22:25:56"}
+{"level":"info","message":"Fetched all items for user 3","timestamp":"2024-07-17 22:25:56"}
+{"level":"info","message":"GET /api/cartItem/3","timestamp":"2024-07-17 22:26:03"}
+{"level":"info","message":"Fetched all items for user 3","timestamp":"2024-07-17 22:26:03"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:26:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:26:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:27:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:27:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:28:09"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:28:09"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:46:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:46:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 22:47:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 22:47:47"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 22:49:53"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 23:00:11"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 23:00:26"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 23:00:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:00:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:00:47"}
+{"level":"info","message":"GET /api/users/abhi@gmail.com","timestamp":"2024-07-17 23:00:49"}
+{"level":"info","message":"Fetched user by email abhi@gmail.com","timestamp":"2024-07-17 23:00:49"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 23:01:11"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 23:01:11"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 23:01:16"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 23:01:16"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 23:01:16"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 23:01:16"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 23:01:16"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 23:01:17"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 23:01:17"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 23:01:17"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 23:01:17"}
+{"level":"info","message":"GET /api/cartItem/1","timestamp":"2024-07-17 23:01:30"}
+{"level":"info","message":"Fetched all items for user 1","timestamp":"2024-07-17 23:01:30"}
+{"level":"info","message":"OPTIONS /api/cartItem/1","timestamp":"2024-07-17 23:01:32"}
+{"level":"info","message":"DELETE /api/cartItem/1","timestamp":"2024-07-17 23:01:32"}
+{"level":"info","message":"Deleted all items in cart for user 1","timestamp":"2024-07-17 23:01:32"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:01:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:01:47"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 23:07:24"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:07:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:07:47"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"POST /api/cartItem/","timestamp":"2024-07-17 23:08:13"}
+{"level":"error","message":"Error adding item to cart: Unknown column 'cart_id' in 'where clause'","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 23:08:13"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:08:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:08:47"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:09:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:09:47"}
+{"level":"info","message":"Server is running on port 8081","timestamp":"2024-07-17 23:10:13"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"OPTIONS /api/cartItem/","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"GET /api/cartItem/1/1","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"Fetched item in cart for user 1 and food 1","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"PUT /api/cartItem/","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"Updated item in cart","timestamp":"2024-07-17 23:10:26"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:10:47"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:10:47"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 23:10:56"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 23:10:56"}
+{"level":"info","message":"GET /api/foods","timestamp":"2024-07-17 23:10:56"}
+{"level":"info","message":"Fetched all foods","timestamp":"2024-07-17 23:10:56"}
+{"level":"info","message":"GET /api/billstatus","timestamp":"2024-07-17 23:10:56"}
+{"level":"info","message":"Fetched all Bills Status","timestamp":"2024-07-17 23:10:56"}

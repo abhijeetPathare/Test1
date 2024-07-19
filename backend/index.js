@@ -1,54 +1,64 @@
-// using nodemon so that you do not need to type node index.js every time new code saved
 
-// import express - is for building the Rest apis
-import express from "express";
+'use strict';
 
-// import body-parser - helps to parse the request and create the req.body object
-import bodyParser from "body-parser";
+const opentelemetry = require('@opentelemetry/api');
+const { Resource } = require('@opentelemetry/resources');
+const { SEMRESATTRS_SERVICE_NAME } = require('@opentelemetry/semantic-conventions');
+const { BasicTracerProvider, ConsoleSpanExporter, SimpleSpanProcessor } = require('@opentelemetry/sdk-trace-base');
+const { JaegerExporter } = require('@opentelemetry/exporter-jaeger');
 
-// import cors - provides Express middleware to enable CORS with various options, connect frontend
-import cors from "cors";
-
-// import routes
-import router from "./routes/routes.js";
-
-// init express
-const app = express();
-
-// use express json
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: true }));
-
-//use cors
-app.use(cors());
-
-// use router
-app.use(router);
-
-// // Handle production
-// if (process.env.NODE_ENV === 'production'){
-//   // Static folder
-//   app.use(express.static(__dirname + '/public/'));
-
-//   // Handle SPA
-//   app.get(/.*/, (req,res)=> res.sendFile(__dirname + '/public/index.html'));
-// }
-
-app.get('/', function(req, res){
-    res.json({ message: 'Welcome to restaurant api' });
+const provider = new BasicTracerProvider({
+  resource: new Resource({
+    [SEMRESATTRS_SERVICE_NAME]: 'basic-service',
+  }),
 });
 
-// PORT
-const PORT = process.env.PORT || 8081;
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}.`);
+// Configure span processor to send spans to the exporter
+const exporter = new JaegerExporter({
+  endpoint: 'http://localhost:14268/api/traces',
 });
+provider.addSpanProcessor(new SimpleSpanProcessor(exporter));
+provider.addSpanProcessor(new SimpleSpanProcessor(new ConsoleSpanExporter()));
 
-// https://www.youtube.com/watch?v=GK2TiAAxmQ0
-// https://www.bezkoder.com/node-js-rest-api-express-mysql/
-// https://www.bezkoder.com/serve-vue-app-express/
-// https://www.bezkoder.com/deploy-node-js-app-heroku-cleardb-mysql/
-// https://www.youtube.com/watch?v=W-b9KGwVECs
-// https://stackoverflow.com/questions/43362014/heroku-no-default-language-could-be-detected-for-this-app-error-thrown-for-no
-// https://stackoverflow.com/questions/16128395/what-is-procfile-and-web-and-worker
-// https://www.youtube.com/watch?v=lwOsI8LtVEQ
+/**
+ * Initialize the OpenTelemetry APIs to use the BasicTracerProvider bindings.
+ *
+ * This registers the tracer provider with the OpenTelemetry API as the global
+ * tracer provider. This means when you call API methods like
+ * `opentelemetry.trace.getTracer`, they will use this tracer provider. If you
+ * do not register a global tracer provider, instrumentation which calls these
+ * methods will receive no-op implementations.
+ */
+provider.register();
+const tracer = opentelemetry.trace.getTracer('example-basic-tracer-node');
+
+// Create a span. A span must be closed.
+const parentSpan = tracer.startSpan('main');
+for (let i = 0; i < 10; i += 1) {
+  doWork(parentSpan);
+}
+// Be sure to end the span.
+parentSpan.end();
+
+// flush and close the connection.
+exporter.shutdown();
+
+function doWork(parent) {
+  // Start another span. In this example, the main method already started a
+  // span, so that'll be the parent span, and this will be a child span.
+  const ctx = opentelemetry.trace.setSpan(opentelemetry.context.active(), parent);
+  const span = tracer.startSpan('doWork', undefined, ctx);
+
+  // simulate some random work.
+  for (let i = 0; i <= Math.floor(Math.random() * 40000000); i += 1) {
+    // empty
+  }
+
+  // Set attributes to the span.
+  span.setAttribute('key', 'value');
+
+  // Annotate our span to capture metadata about our operation
+  span.addEvent('invoking doWork');
+
+  span.end();
+}

@@ -15,13 +15,14 @@ export const getNewestId = (result) => {
 };
 
 // insert Bill Status
-export const insertBillStatus = (data,result) => {
-    db.query("INSERT INTO billstatus SET ?",data, (err,results)=> {
-        if (err){
+export const insertBillStatus = (data, result) => {
+    db.query("INSERT INTO billstatus SET ?", data, (err, results) => {
+        if (err) {
             console.log(err);
-            result(err,null);
-        }else{
-            result(null,results[0]);
+            result(err, null);
+        } else {
+            // Assuming `results` is an object with `insertId`
+            result(null, { insertId: results.insertId }); // or results.insertId directly if applicable
         }
     });
 };
