@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: my-app-container
-        image: my-app-image:latest
+        image: shree88/backend-image
         ports:
         - containerPort: 8080
         resources:
